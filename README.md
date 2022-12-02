@@ -21,5 +21,5 @@ git clone https://github.com/LanoCodes/NATO-Phonetic-Translator.git
 - When prompted, enter a word and then press enter. In my case above, I entered a name.
 - After that, you'll be shown what a phonetic translation of your word looks like.
 
-## Libraries/Frameworks
+## Frameworks/Libraries/Modules
 - Pandas
